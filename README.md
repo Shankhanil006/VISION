@@ -6,7 +6,7 @@ Quality Assessment of User Generated Content” in keras/tensorflow. If you are 
 
 >S. Mitra, and R. Soundararajan, “Multiview Contrastive Learning for Completely Blind Video Quality Assessment of User Generated Content,” 	arXiv:2207.06148, https://doi.org/10.48550/arXiv.2207.06148.
  
-![VISION](https://https://github.com/Shankhanil006/VISION/blob/main/cmc_final%20(1).png)
+![VISION](https://https://github.com/Shankhanil006/VISION/blob/main/cmc_final%20(1).png?raw=true)
 
 ## Frame and Frame difference based Feature Encoder
 We use the function dualData_contrastive_FvsFDiff.py to learn quality aware feature using frame and frame difference.
