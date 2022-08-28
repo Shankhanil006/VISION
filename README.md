@@ -23,7 +23,7 @@ Use the funtion test_spatiotemporal.py to predict the quality of videos with fra
 Use the funtion test_flowtemporal.py to predict the quality of videos with optical flow and frame difference based encoders.
 
 ## **Prediction**:
-Overall VISION index of videos are predicted using Quality_Estimator.py.
+Overall VISION index of videos are predicted using Quality_Estimator.py. Use the pre-trained model on LIVE-FB Large-Scale Social Video Quality for evaluateing VISION for any video.
 
 ## ** Pre-trained Models**:
 [Google Drive link](https://drive.google.com/drive/folders/1TgWrM74Yo2Fg5kDnKRQJdKvytmQwWYvG?usp=sharing)
