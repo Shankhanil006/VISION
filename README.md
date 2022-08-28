@@ -12,7 +12,7 @@ Quality Assessment of User Generated Content” in keras/tensorflow. If you are 
 We use the function dualData_contrastive_FvsFDiff.py to learn quality aware feature using frame and frame difference.
 
 ## Frame difference and Optical Flow based Feature Encoder
-We use the function dualData_contrastive_FDiffvsOFlow.py to learn quality aware featu
+We use the function dualData_contrastive_FDiffvsOFlow.py to learn quality aware feature using optical flow and frame difference.
 ## Reference Feature Generator
 Use the functions reference_feat_spatial.py, reference_feat_temporal.py, reference_feat_flow.py to generate reference features from pristine frames, frame difference, and optical flow map.
 
