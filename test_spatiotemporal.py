@@ -233,7 +233,7 @@ count = 0
 #data_feat = []
 start = time.time()
 spa_vid_score, tmp_vid_score = [], []
-for i in range(len(flickr_id )//120): # vid_names  # vid_id# epfl_video_list # video_list
+for i in range(len(flickr_id )): # vid_names  # vid_id# epfl_video_list # video_list
 #    break
     video_feat_frame = []
     video_feat_framediff  = []
